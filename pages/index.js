@@ -180,7 +180,7 @@ export const getServerSideProps = async (context) => {
     ],
     initialState: {
       title: "To Do List",
-      subtitle: "A simple to do list with react class component",
+      subtitle: "A simple to do list with react hooks component",
       taskList: [
         {
           id: 1,
